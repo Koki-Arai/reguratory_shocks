@@ -1,0 +1,19 @@
+# Requirements for replication code
+# Regulatory Shocks and Market Equilibria
+# Tested on Google Colab (Python 3.10+)
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# On Google Colab, the following are pre-installed:
+#   numpy, pandas, scipy, matplotlib
+# Install additionally:
+#   pip install linearmodels tqdm statsmodels
+
+numpy>=1.24
+pandas>=1.5
+scipy>=1.10
+matplotlib>=3.6
+statsmodels>=0.13
+linearmodels>=4.28
+tqdm>=4.64
